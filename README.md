@@ -6,7 +6,7 @@ uncovered:
 ## Key Findings
 1. Routes with the longest travel times had higher congestion levels.
 2. No strong link was found between weather and congestion using Chi-square analysis.
-3. Travel time doesn't depend directlyon congestion level (from Linear Regression).
+3. Travel time doesn't depend directly on congestion level (from Linear Regression).
 4. Higher probabilities were related to lower congestion levels, suggesting smoother routes.
 5. Skyline (1) routes were shorter and faster, while Skyline (0) routes were longer and slower.
 6. Travel time prediction equations:
