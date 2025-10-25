@@ -13,7 +13,7 @@ uncovered:
   -Travel Time = 0.4888 * Congestion Level + 60.698
   -Travel Time = 1.067 * Weather Impact + 60.19
    
-8. Decision Tree model accuracy: 99.7%, showing distace as the most influencial factor in predicting
+8. Decision Tree model accuracy: 99.7%, showing distance as the most influencial factor in predicting
    congestion.
 9. Shorter distances resulted in less congestion, while longer distances increased congestion probability.
 
